@@ -36,3 +36,16 @@ Data from different exchanges is combined into a single structure to allow compa
 - CSV datasets
 - GitHub (version control)
 
+  ## 🌐 Web Application
+A web application will be developed to visualize arbitrage opportunities.
+
+Technologies used:
+- Python
+- Streamlit (for building the web interface)
+- Pandas (data processing)
+
+The application will allow users to:
+- Compare prices across exchanges
+- View arbitrage opportunities
+- Analyze price differences over time
+
