@@ -2,3 +2,15 @@
 
 ## 📊 Project Description
 This project aims to detect arbitrage opportunities in cryptocurrency markets using SQL. Arbitrage refers to making profit from price differences of the same asset across different exchanges.
+
+In this project, Bitcoin (BTC) price data from multiple exchanges is analyzed. The system compares prices across exchanges and identifies potential arbitrage opportunities by considering transaction costs.
+
+## 📁 Datasets
+The project uses historical BTC price data from the following exchanges:
+
+- Binance (BTC/USDT)
+- Coinbase (BTC/USD)
+- Bitfinex (BTC/USD)
+- Bitstamp (BTC/USD)
+
+All datasets are stored in the `data/` folder.
