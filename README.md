@@ -20,3 +20,19 @@ All datasets are stored in the `data/` folder.
 - Price differences are calculated for the same timestamps
 - Transaction costs (taker fees) are included in the calculations
 - Only profitable arbitrage opportunities are selected
+
+## 🏗️ System Design
+The system is based on a relational database structure with the following main tables:
+
+- Exchanges
+- Assets
+- MarketData
+- TradingFees
+
+Data from different exchanges is combined into a single structure to allow comparison across markets.
+
+## ⚙️ Technologies Used
+- SQL (data storage and analysis)
+- CSV datasets
+- GitHub (version control)
+
