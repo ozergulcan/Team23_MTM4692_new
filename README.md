@@ -49,3 +49,7 @@ The application will allow users to:
 - View arbitrage opportunities
 - Analyze price differences over time
 
+## 📝 Notes
+- USDT is assumed to be equivalent to USD for simplification
+- The analysis focuses only on Bitcoin (BTC)
+- SQL queries and analysis are included in the project report
