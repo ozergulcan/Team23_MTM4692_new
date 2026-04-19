@@ -14,3 +14,9 @@ The project uses historical BTC price data from the following exchanges:
 - Bitstamp (BTC/USD)
 
 All datasets are stored in the `data/` folder.
+
+## 🧠 Methodology
+- Data from different exchanges is collected and standardized
+- Price differences are calculated for the same timestamps
+- Transaction costs (taker fees) are included in the calculations
+- Only profitable arbitrage opportunities are selected
