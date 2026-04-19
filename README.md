@@ -36,7 +36,7 @@ Data from different exchanges is combined into a single structure to allow compa
 - CSV datasets
 - GitHub (version control)
 
-  ## 🌐 Web Application
+## 🌐 Web Application
 A web application will be developed to visualize arbitrage opportunities.
 
 Technologies used:
